@@ -1,0 +1,14 @@
+cp $1 viki.herold-nlp-uebung.ipynb
+cp $1 arapple-nlp-uebung.ipynb
+cp $1 philipp.sahrmann-nlp-uebung.ipynb
+cp $1 janis.beckedorf-nlp-uebung.ipynb
+cp $1 yuan.tianyu.cn-nlp-uebung.ipynb
+cp $1 dietze-nlp-uebung.ipynb
+cp $1 markus-nlp-uebung.ipynb
+cp $1 christoph.simmchen-nlp-uebung.ipynb
+cp $1 johannes-nlp-uebung.ipynb
+cp $1 jakub-nlp-uebung.ipynb
+cp $1 elias.haacke-nlp-uebung.ipynb
+cp $1 scheurich-nlp-uebung.ipynb
+cp $1 reimer-uebung.ipynb
+cp $1 heribert-anzinger-uebung.ipynb
